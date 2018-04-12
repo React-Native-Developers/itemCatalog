@@ -10,7 +10,6 @@ const styles = StyleSheet.create({
 	view_style: {
 		backgroundColor: '#FFF',
 		width: 200, 
-		//height: 120,
 		borderWidth: 3,
 		borderColor: '#6699ff',
 		marginLeft: 2,
